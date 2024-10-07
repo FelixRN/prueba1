@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    color: yellow;
+}
+
+div{
+    width: 50%;
+    background-color: violet;
+}
+
+p{
+    width: 50%;
+    color: blue;
+}
+
+#div1{
+    float: right;
+}
+
+#div2{
+    clear:both;
+}
